@@ -3,7 +3,7 @@
 }
 
 .hero-section {
-    background-image: url(/assets/home/image-homepage-hero.jpg);
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: auto;
@@ -45,7 +45,7 @@
 }
 
 .dark-rectangle{
-    background-image: url(/assets/icons/down-arrows-green.svg);
+    background-image: url(../../assets/icons/down-arrows-green.svg);
     background-repeat: no-repeat;
     background-position-x: 16px;
     background-position-y: 16px;
@@ -67,7 +67,7 @@
 }
 
 .dark-rectangle:hover {
-    background-image: url(/assets/icons/down-arrows-white.svg);
+    background-image: url(../../assets/icons/down-arrows-white.svg);
     background-color: #5FB4A2;
     cursor: pointer;
 }
@@ -75,7 +75,7 @@
 .about-me {
     margin: 149px auto 0;
     height: 601px;
-    background-image: url(/assets/home/image-homepage-profile.jpg);
+    background-image: url(../../assets/home/image-homepage-profile.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     justify-content: flex-end;
