@@ -1,0 +1,106 @@
+.line-decoration-large {
+    margin-bottom: 48px;
+}
+
+.mb-48 {
+    margin-bottom: 48px;
+}
+
+.form-column {
+    flex-direction: column;
+    width: 635px;
+}
+
+.contact-us {
+    justify-content: space-between;
+}
+
+.contact-title {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.contact-paragraph {
+    font-family: 'Public Sans', sans-serif;
+    width: 635px;
+    height: 180px;
+
+    font-family: Public Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin-bottom: 54px;
+}
+
+.contact-form {
+    justify-content: space-between;
+}
+
+.contact-label {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 30px;
+    
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin-bottom: 8px;
+}
+
+.contact-input {
+    all: unset;
+    background: hsl(250, 2%, 92%);
+    height: 48px;
+    padding: 0 0 0 5px;
+    margin-bottom: 24px;
+}
+
+.contact-input-message {
+    all: unset;
+    background: hsl(250, 2%, 92%);
+    padding: 5px 0 86px 5px;
+    margin-bottom: 24px;
+}
+
+.contact-input:focus, .contact-input-message:focus {
+    outline: 2px solid #33323D;
+}
+
+.send-form {
+    border: none;
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    width: 200px;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+    background: #203A4C;
+    padding: 17px 24px;
+    margin-bottom: 109px;
+    cursor: pointer;
+}
+
+.send-form:hover {
+    background-color: #5FB4A2;
+}
