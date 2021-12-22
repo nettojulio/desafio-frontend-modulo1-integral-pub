@@ -1,0 +1,29 @@
+.mt-48{
+    margin-top: 48px;
+}
+
+.standart-paragraph{
+    margin: 29px 0 23px ;
+}
+
+.references-paragraph {
+    margin-bottom: 16px;
+}
+
+.visit-project-button {
+    margin: 16px 0 48px;
+}
+
+.standart-project-paragraph{
+    margin: 28px 0 40px;
+}
+
+.standart-preview-title {
+    margin-bottom: -4px;
+}
+
+.standart-contact {
+    margin: 115px auto 150px;
+    justify-content: space-between;
+    align-items: center;
+}

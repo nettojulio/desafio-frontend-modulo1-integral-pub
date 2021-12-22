@@ -1,0 +1,43 @@
+.highlights {
+    margin: 0 45px 80px 45px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fylo {
+    margin-bottom: 0px;
+}
+
+.img-preview {
+    width: 540px;
+    height: 500px;
+}
+
+.card-box {
+    width: 350px;
+    height: 498px;
+}
+
+.card-box > h2 {
+    margin-bottom: 28px;
+    margin-top: 103px;
+}
+
+.m-54 {
+    margin-bottom: 54px;
+}
+
+.m-24 {
+    margin-bottom: 24px;
+}
+
+.project-button {
+    padding: 17px 38px;
+    margin-bottom: 103px;
+}
+
+.standart-contact {
+    margin: 150px 45px;
+    justify-content: space-between;
+    align-items: center;
+} 
